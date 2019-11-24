@@ -1,31 +1,37 @@
 .home{
   position: absolute;
   top:50%;
-  left:50%;
+  left:20%;
 }
+
+a {
+font-size: 150%;
+}
+
+
 .works{
   position: absolute;
   top:55%;
-  left:50%;
+  left:30%;
 }
 .cv{
   position: absolute;
   top:60%;
-  left:50%;
+  left:30%;
 }
 
 .workwith{
   position: absolute;
   top:55%;
-  left:50%;
+  left:30%;
 }
 .windows{
   position: absolute;
   top:60%;
-  left:50%;
+  left:30%;
 }
 .shukai{
   position: absolute;
   top:65%;
-  left:50%;
+  left:30%;
 }
